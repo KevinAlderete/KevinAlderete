@@ -16,12 +16,12 @@
 
 ## Proyectos Destacados 🚀
 
-### [Nombre del Proyecto 1]
+### Sistema para un Estudio de Abogados
 Descripción breve del proyecto, destacando su propósito, tecnologías utilizadas y características clave.
 
-- **Tecnologías**: [Lenguajes, frameworks, bases de datos, etc.]
-- **Destacado**: [Funcionalidad clave o logro del proyecto]
-- **Repositorio**: [Enlace al repositorio]
+- **Tecnologías**: Larabel 9, Breeze, Laravel-permission (Spatie), Tailwindcss, AlpineJs, JQuery, SweetAlert2, FullcalendarJs, ChartJs, Mysql.
+- **Destacado**: Se logrando un aumento del 50% en la eficiencia operativa en la entidad, ademas se redujo los errores manuales en un 30%, mejorando la precisión y la consistencia de los                  datos y tambien se dio una reducción del 50% en el tiempo de ciclo de las tareas administrativas.
+- **Repositorio**: [[Enlace al repositorio]](https://github.com/KevinAlderete/Sistema-abogados)
 
 ## Contribuciones 🛠️
 
