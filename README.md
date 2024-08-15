@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
+<h1 align="center">Hola 👋, soy Kevin</h1>
 <h3 align="center">Egresado de la carrera de Ingeniería de Sistemas y Computación, apasionado por la tecnología y el desarrollo de software, con ganas de mejorar en el diseño, desarrollo e implementación de soluciones innovadoras.</h3>
 
 <h3 align="left">Connect with me:</h3>
